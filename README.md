@@ -1,4 +1,3 @@
---https://www.youtube.com/c/anto6666 
 -- // Constants \\ --
 -- [ Services ] --
 local Services = setmetatable({}, {__index = function(Self, Index)
